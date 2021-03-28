@@ -3,7 +3,7 @@
 // Suma
 res = 3 + 2;
 
-// Resta
+//  Resta
 res = 5 - 4;
 
 // Multiplicación
